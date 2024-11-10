@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=langliuucsb&label=Profile%20views&color=0e75b6&style=flat)
 
 I'm a mathematician,
-data engineer, and
+data engineer/analyst, and
 low-level systems developer.
 
 Currently working on [Voxeller](https://github.com/LangLiuUCSB/Voxeller) and [FracturC](https://github.com/LangLiuUCSB/FracturC).
