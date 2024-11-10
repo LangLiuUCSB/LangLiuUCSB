@@ -6,8 +6,6 @@ I'm a mathematician,
 data engineer/analyst, and
 low-level systems developer.
 
-Currently working on [Voxeller](https://github.com/LangLiuUCSB/Voxeller) and [FracturC](https://github.com/LangLiuUCSB/FracturC).
-
 ![Top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=langliuucsb&layout=compact&theme=highcontrast)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=langliuucsb&theme=highcontrast)
 
