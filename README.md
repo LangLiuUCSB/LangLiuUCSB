@@ -1,4 +1,4 @@
-# Hi 👋, I'm Lang
+# Hi, my name is Lang
 
 ![Profile Views](https://komarev.com/ghpvc/?username=langliuucsb&label=Profile%20views&color=0e75b6&style=flat)
 
